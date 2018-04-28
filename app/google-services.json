@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "493628284919",
+    "firebase_url": "https://just-notes-cerilla.firebaseio.com",
+    "project_id": "just-notes-cerilla",
+    "storage_bucket": "just-notes-cerilla.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493628284919:android:bbc4aabdb73a646b",
+        "android_client_info": {
+          "package_name": "com.notas.sergio.notas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493628284919-84gmcc7l0fe402q6vng9le1ecfupn26n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsNQ0qE9FdERcHm763enwK1BTfs6OhH0M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
